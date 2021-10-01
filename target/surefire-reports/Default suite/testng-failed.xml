@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Default suite]">
+  <test thread-count="5" verbose="0" name="Default test(failed)">
+    <classes>
+      <class name="scripts.FirstTestNGTest">
+        <methods>
+          <include name="googleTest"/>
+          <include name="amazonTest"/>
+          <include name="wikiTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- scripts.FirstTestNGTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

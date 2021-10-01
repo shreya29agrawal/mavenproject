@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="555132" started-at="2021-09-30T08:29:04Z" finished-at="2021-09-30T08:38:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="555132" started-at="2021-09-30T08:29:04Z" finished-at="2021-09-30T08:38:19Z">
+      <class name="scripts.FirstTestNGTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="beforeMethod" is-config="true" duration-ms="53856" started-at="2021-09-30T13:59:04Z" finished-at="2021-09-30T13:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="amazonTest()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="amazonTest" duration-ms="100060" started-at="2021-09-30T13:59:58Z" finished-at="2021-09-30T14:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="afterMethod" is-config="true" duration-ms="8133" started-at="2021-09-30T14:01:38Z" finished-at="2021-09-30T14:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="beforeMethod" is-config="true" duration-ms="53451" started-at="2021-09-30T14:01:46Z" finished-at="2021-09-30T14:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="googleTest" duration-ms="270430" started-at="2021-09-30T14:02:40Z" finished-at="2021-09-30T14:07:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="afterMethod" is-config="true" duration-ms="2628" started-at="2021-09-30T14:07:10Z" finished-at="2021-09-30T14:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="beforeMethod" is-config="true" duration-ms="8381" started-at="2021-09-30T14:07:13Z" finished-at="2021-09-30T14:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="wikiTest()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="wikiTest" duration-ms="57798" started-at="2021-09-30T14:07:21Z" finished-at="2021-09-30T14:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikiTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:scripts.FirstTestNGTest@18f23c]" name="afterMethod" is-config="true" duration-ms="172" started-at="2021-09-30T14:08:19Z" finished-at="2021-09-30T14:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- scripts.FirstTestNGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
