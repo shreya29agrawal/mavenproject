@@ -73,7 +73,7 @@ public class FirstTestNGTest {
   public void beforeMethod() {
 	  // pre-requisite case here 
 	  // like open the browser
-	  System.setProperty("webdriver.chrome.driver","C:\\Users\\OM SAI RAM\\workspace\\lerningmaven\\src\\test\\resources\\chromedriver.exe");
+	  System.setProperty("webdriver.chrome.driver","C:\\Users\\OM SAI RAM\\workspace\\learningmaven\\src\\test\\resources\\chromedriver.exe");
 	     driver= new ChromeDriver();
   }
 
